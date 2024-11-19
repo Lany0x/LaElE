@@ -7,5 +7,6 @@ background-color: rgb(106, 8, 160);
         background:black;
 padding-bottom: 80px;
 padding-top: 80px;
-
+display: flex;
+justify-content: center;
     }
